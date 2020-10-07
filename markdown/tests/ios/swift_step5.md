@@ -2,7 +2,7 @@ Amplify DataStore allows you to manage your app data without writing additional 
 
 Click "Build" in Xcode to generate the DataStore models for your app.
 
-![](/images/swift_step5_1_lowres.png)
+![](https://raw.githubusercontent.com/cslogan-red/doot/main/markdown/tests/ios/images/swift_step5_1_lowres.png)
 
 
-![](/images/swift_step5_2_lowres.png)
+![](https://raw.githubusercontent.com/cslogan-red/doot/main/markdown/tests/ios/images/swift_step5_2_lowres.png)
