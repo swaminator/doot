@@ -26,4 +26,4 @@ pod install --repo-udpate
 ```
 
 Open the *.xcworkspace* file
-![](/images/swift_step3_lowres.png)
+![](https://raw.githubusercontent.com/cslogan-red/doot/main/markdown/tests/ios/images/swift_step3_lowres.png)
