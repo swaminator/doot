@@ -2,7 +2,7 @@ Go to your project's Build Phases and create a new Run Script.
 
 Rename the run script to "Run Amplify tools" and move it to the "Compile Sources" script.
 
-![](/images/swift_step4_1_lowres.png)
+![](https://raw.githubusercontent.com/cslogan-red/doot/main/markdown/tests/ios/images/swift_step4_1_lowres.png)
 
 Paste the following code into the newly created run script:
 
